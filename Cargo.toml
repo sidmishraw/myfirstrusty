@@ -1,0 +1,7 @@
+[package]
+name = "MyFirstRustProject"
+version = "0.1.0"
+authors = ["Sidharth Mishra <sidmishraw@gmail.com>"]
+
+[dependencies]
+rand="*"
